@@ -18,6 +18,7 @@
 - SW중심대학사업단 클라우드 Intensive 교육과정(AWS) 수료 (2026.08)
 
 **기술**
+
 Python · PyTorch · scikit-learn · XGBoost · TensorFlow\
 AWS (SageMaker, Lambda, Bedrock) · Firebase Firestore · MySQL\
 C · Java · JavaScript (React)
